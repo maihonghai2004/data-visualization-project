@@ -1,0 +1,11 @@
+EmployeeID,Department,JobRole,Attrition_Probability,OverTime,JobSatisfaction,WorkLifeBalance,EnvironmentSatisfaction,Age,MonthlyIncome,RiskReason
+1273,Sales,Sales Representative,0.989,Yes,4,3,3,25,1118,Thu nhập thấp; Làm thêm nhiều
+478,Sales,Sales Representative,0.978,Yes,2,3,1,21,2174,Tuổi trẻ; Thu nhập thấp; Làm thêm nhiều; Không hài lòng công việc; Môi trường làm việc chưa tốt
+959,Sales,Sales Representative,0.946,Yes,2,4,4,19,2121,Tuổi trẻ; Thu nhập thấp; Làm thêm nhiều; Không hài lòng công việc
+702,Research & Development,Research Scientist,0.879,Yes,1,3,1,33,3348,Làm thêm nhiều; Không hài lòng công việc; Môi trường làm việc chưa tốt
+1157,Sales,Sales Executive,0.847,Yes,1,3,1,33,8224,Làm thêm nhiều; Không hài lòng công việc; Môi trường làm việc chưa tốt
+1961,Sales,Sales Representative,0.79,No,1,2,1,38,2858,Thu nhập thấp; Không hài lòng công việc; Cân bằng cuộc sống kém; Môi trường làm việc chưa tốt
+1053,Research & Development,Research Scientist,0.786,Yes,1,3,1,26,2042,Thu nhập thấp; Làm thêm nhiều; Không hài lòng công việc; Môi trường làm việc chưa tốt
+994,Research & Development,Research Scientist,0.784,Yes,1,3,4,29,2404,Thu nhập thấp; Làm thêm nhiều; Không hài lòng công việc
+1439,Sales,Sales Representative,0.76,No,1,3,1,25,4400,Không hài lòng công việc; Môi trường làm việc chưa tốt
+1318,Sales,Sales Executive,0.757,Yes,2,3,4,40,9094,Làm thêm nhiều; Không hài lòng công việc

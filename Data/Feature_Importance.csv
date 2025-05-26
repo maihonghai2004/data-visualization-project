@@ -1,0 +1,56 @@
+Feature,Importance
+TotalWorkingYears,0.2277625728892101
+OverTime,0.14719079074606956
+DailyRate,0.11339500405591912
+MonthlyIncome,0.0962153511070151
+Age,0.0865968706758337
+MaritalStatus_Single,0.05700406915473234
+NumCompaniesWorked,0.05609228446598681
+JobRole_Research Scientist,0.049864032883639976
+HourlyRate,0.038135264486074134
+YearsInCurrentRole,0.03355580722829072
+EnvironmentSatisfaction,0.02428984951254206
+WorkLifeBalance,0.02286068424170905
+YearsSinceLastPromotion,0.0191541406418501
+JobSatisfaction,0.01510011325273083
+RelationshipSatisfaction,0.012783164658396469
+JobInvolvement,0.0
+PerformanceRating,0.0
+JobLevel,0.0
+PercentSalaryHike,0.0
+TrainingTimesLastYear,0.0
+StockOptionLevel,0.0
+DistanceFromHome,0.0
+Education,0.0
+YearsWithCurrManager,0.0
+YearsAtCompany,0.0
+Department_Research & Development,0.0
+BusinessTravel_Travel_Frequently,0.0
+EducationField_Life Sciences,0.0
+EducationField_Marketing,0.0
+EducationField_Medical,0.0
+BusinessTravel_Travel_Rarely,0.0
+EducationField_Other,0.0
+EducationField_Technical Degree,0.0
+JobRole_Human Resources,0.0
+Gender_Male,0.0
+JobRole_Laboratory Technician,0.0
+JobRole_Manager,0.0
+JobRole_Manufacturing Director,0.0
+Department_Sales,0.0
+JobRole_Research Director,0.0
+JobRole_Sales Executive,0.0
+JobRole_Sales Representative,0.0
+MaritalStatus_Married,0.0
+AgeBand_26-30,0.0
+AgeBand_31-35,0.0
+AgeBand_36-40,0.0
+AgeBand_41+,0.0
+TenureBand_3-5y,0.0
+TenureBand_5-10y,0.0
+TenureBand_<1y,0.0
+TenureBand_>10y,0.0
+IncomeBand_Low,0.0
+IncomeBand_Lower-Mid,0.0
+IncomeBand_Mid,0.0
+IncomeBand_Upper-Mid,0.0
